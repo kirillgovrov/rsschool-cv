@@ -29,6 +29,8 @@ def click(event):
 ## Experience 
 --
 
+## My progress
+At the age of 13, I received the __presidential prize__ for first place in a *flute competition*.
 
 ## Education
 * __Music school:__ Smorgon Music School in **Belarus** (7 grades)
