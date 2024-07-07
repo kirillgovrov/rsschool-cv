@@ -91,6 +91,33 @@ pre {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Тень блока */
 }
 
+footer {
+    background-color: #f1ecec;
+    color: #000000;
+    padding: 15px 0;
+    text-align: center;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.footer-content a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.footer-content img {
+    vertical-align: middle;
+    margin-right: 8px;
+}
+
+
+
 /* Медиазапросы для улучшенной адаптивности */
 @media (max-width: 768px) {
     .name, .surname {
